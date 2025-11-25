@@ -1,0 +1,41 @@
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+  text-align: center;
+}
+
+.card .id {
+  color: #666;
+  font-size: 16px;
+}
+
+.sprite {
+  display: block;
+  width: 150px;
+  margin: 15px auto;
+}
+
+.section {
+  margin: 20px 0;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tag {
+  background: #ddd;
+  padding: 6px 12px;
+  border-radius: 12px;
+}
+
+.move {
+  background: #ffe680;
+}
